@@ -2,6 +2,8 @@ package com.eldeboero.lab.usngcalc;
 import java.util.*;
 import java.lang.*;
 
+// This is the class that does the actual work
+
 public class Calculator {
 
     double myNorthing;
